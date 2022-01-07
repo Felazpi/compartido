@@ -1,2 +1,2 @@
-# compartido
+# Compartido
 Repositorio experimental
